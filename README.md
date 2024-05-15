@@ -1,0 +1,1 @@
+Asenkron iletişimde Task, async  ve await keyword leri çok kullanılıyor. Ancak bunların kullanımlarında öp plana çıkan detaylar da mevcut. Bir WebApi projesi geliştiriyorken bu detayları en etkili şekilde nasıl kullanabilecegimiz bir proje. 
